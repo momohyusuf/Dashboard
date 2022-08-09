@@ -2,10 +2,10 @@ export { default as Ecommerce } from './Ecommerce';
 export { default as Orders } from './sub-pages/Orders';
 export { default as Employees } from './sub-pages/Employees';
 export { default as Customers } from './sub-pages/Customers';
-export { default as Calender } from './Applications/Calender';
-export { default as ColorPicker } from './Applications/ColorPicker';
+export { default as Calendar } from './Applications/Calendar';
+
 export { default as Editor } from './Applications/Editor';
-export { default as Kanban } from './Applications/Kaban';
+export { default as Tasks } from './Applications/Tasks';
 export { default as AreaChart } from './Charts/AreaChart';
 export { default as BarChart } from './Charts/BarChart';
 export { default as ColorMapping } from './Charts/ColorMapping';
