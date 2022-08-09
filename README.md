@@ -1,4 +1,4 @@
-# A Football App ⚽
+# An Ecommerce Dashboard
 
 ## Table of contents
 
@@ -22,6 +22,8 @@
 Users should be able to:
 - See Graphical represention of data
 - interact with the UI
+- Edit and create Notes
+- Schedule Events
 
 ### Links
 - Live Site URL: [football-oclock](https://football-oclock.netlify.app)
@@ -40,17 +42,16 @@ Users should be able to:
 
 
 ### What I learned
-- leant how to work with Syncfusion
+- leant how to work with Syncfusion library
 - styling a webpage with tailwind CSS
 
 ### Continued development
 
 - learning JavaScript and solidifying my React, and tailwind Knowlegde
 
-
-
 ### Useful resources
 - syncfusion official documentation,
+- React official documentation
 
 
 ## Author
