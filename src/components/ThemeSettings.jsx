@@ -46,13 +46,13 @@ function ThemeSettings() {
               type="radio"
               id="dark"
               name="theme"
-              value="dark"
+              value="Dark"
               className="cursor-pointer"
               onChange={() => setMode('Dark')}
               checked={currentMode === 'Dark'}
             />
-            <label htmlFor="dark" className="ml-2 text-md cursor-pointer">
-              Light
+            <label htmlFor="Dark" className="ml-2 text-md cursor-pointer">
+              Dark
             </label>
           </div>
         </div>
